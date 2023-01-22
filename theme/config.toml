@@ -1,0 +1,9 @@
+baseURL = "https://www.noty.cc/"
+languageCode = "en-us"
+title = "NoTY"
+disableHugoGeneratorInject = true
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+
+[params]
+    author = "NoTY"
+    description = "No Thank You"
